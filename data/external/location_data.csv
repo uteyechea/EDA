@@ -1,0 +1,982 @@
+,road,neighbourhood,postcode,mayoralty
+0,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc
+1,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+2,Calle Tepeji,Roma Sur,06760,Cuauhtémoc
+3,Calle Linares,Roma Sur,06760,Cuauhtémoc
+4,Calle Frontera,Juárez,06700,Cuauhtémoc
+5,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+6,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc
+7,Calle Tapachula,Centro Urbano Benito Juárez,06700,NA
+8,Calle Colima,Roma Norte,06700,Cuauhtémoc
+9,Avenida Cuauhtémoc,Doctores,06720,Cuauhtémoc
+10,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+11,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+12,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+13,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+14,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+15,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+16,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+17,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+18,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+19,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+20,Calle Colima,Roma Norte,06700,Cuauhtémoc
+21,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+22,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+23,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+24,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03103,Benito Juárez
+25,Avenida Cuauhtémoc,Centro Urbano Benito Juárez,NA,NA
+26,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+27,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+28,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+29,Calle Chilpancingo,Hipódromo,06100,Cuauhtémoc
+30,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+31,Calle Chihuahua,Roma Norte,06700,Cuauhtémoc
+32,Calle Colima,Roma Norte,06700,Cuauhtémoc
+33,Calle Colima,Roma Norte,06700,Cuauhtémoc
+34,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+35,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+36,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+37,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+38,Calle Colima,Roma Norte,06700,Cuauhtémoc
+39,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+40,Calle Colima,Roma Norte,06700,Cuauhtémoc
+41,Calle Colima,Roma Norte,06700,Cuauhtémoc
+42,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+43,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+44,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+45,Río Tíber,Cuauhtémoc,06500,Cuauhtémoc
+46,Calle Colima,Roma Norte,06700,Cuauhtémoc
+47,Calle Colima,Roma Norte,06700,Cuauhtémoc
+48,Calle Colima,Roma Norte,06700,Cuauhtémoc
+49,Calle Colima,Roma Norte,06700,Cuauhtémoc
+50,Calle Colima,Roma Norte,06700,Cuauhtémoc
+51,Calle Frontera,Juárez,06700,Cuauhtémoc
+52,Calle Colima,Roma Norte,06700,Cuauhtémoc
+53,Calle Alejandría,Roma,64700,NA
+54,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+55,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+56,Calle Colima,Roma Norte,06700,Cuauhtémoc
+57,Calle Colima,Roma Norte,06700,Cuauhtémoc
+58,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+59,Calle Colima,Roma Norte,06700,Cuauhtémoc
+60,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+61,Calle Colima,Roma Norte,06700,Cuauhtémoc
+62,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+63,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+64,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+65,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+66,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+67,Transbordo Intermodal MB Álvaro Obregón,Roma Norte,06700,Cuauhtémoc
+68,Transbordo Intermodal MB Álvaro Obregón,Roma Norte,06700,Cuauhtémoc
+69,Calle Colima,Roma Norte,06700,Cuauhtémoc
+70,Calle Colima,Roma Norte,06700,Cuauhtémoc
+71,Calle Colima,Roma Norte,06700,Cuauhtémoc
+72,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+73,Calle Colima,Roma Norte,06700,Cuauhtémoc
+74,Calle Colima,Roma Norte,06700,Cuauhtémoc
+75,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+76,Calle Colima,Roma Norte,06700,Cuauhtémoc
+77,Avenida Chapultepec,Zona Rosa,06700,NA
+78,Avenida Chapultepec,Zona Rosa,06700,NA
+79,Calle Colima,Roma Norte,06700,Cuauhtémoc
+80,Calle Colima,Roma Norte,06700,Cuauhtémoc
+81,Calle Colima,Roma Norte,06700,Cuauhtémoc
+82,Calle Colima,Roma Norte,06700,Cuauhtémoc
+83,Calle Colima,Roma Norte,06700,Cuauhtémoc
+84,Calle Colima,Roma Norte,06700,Cuauhtémoc
+85,Calle Colima,Roma Norte,06700,Cuauhtémoc
+86,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+87,Calle Colima,Roma Norte,06700,Cuauhtémoc
+88,Calle Colima,Roma Norte,06700,Cuauhtémoc
+89,Calle Colima,Roma Norte,06700,Cuauhtémoc
+90,Calle Colima,Roma Norte,06700,Cuauhtémoc
+91,Calle Colima,Roma Norte,06700,Cuauhtémoc
+92,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+93,Calle Colima,Roma Norte,06700,Cuauhtémoc
+94,Calle Colima,Roma Norte,06700,Cuauhtémoc
+95,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+96,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+97,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+98,Calle Colima,Roma Norte,06700,Cuauhtémoc
+99,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+100,Calle Colima,Roma Norte,06700,Cuauhtémoc
+101,Calle Colima,Roma Norte,06700,Cuauhtémoc
+102,Calle Colima,Roma Norte,06700,Cuauhtémoc
+103,Calle Colima,Roma Norte,06700,Cuauhtémoc
+104,Calle Colima,Roma Norte,06700,Cuauhtémoc
+105,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+106,Calle Andalucía,Álamos,03400,Benito Juárez
+107,Calle Colima,Roma Norte,06700,Cuauhtémoc
+108,Calle Colima,Roma Norte,06700,Cuauhtémoc
+109,Calle Colima,Roma Norte,06700,Cuauhtémoc
+110,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+111,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+112,Calle Bajío,Roma Sur,06100,Cuauhtémoc
+113,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+114,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+115,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+116,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+117,Avenida Insurgentes Sur,Hipódromo,06760,Cuauhtémoc
+118,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+119,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+120,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+121,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+122,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+123,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+124,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+125,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+126,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+127,Calle Colima,Roma Norte,06700,Cuauhtémoc
+128,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+129,Calle Colima,Roma Norte,06700,Cuauhtémoc
+130,Calle Colima,Roma Norte,06700,Cuauhtémoc
+131,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+132,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+133,Calle Colima,Roma Norte,06700,Cuauhtémoc
+134,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+135,Calle Tonalá,Roma Norte,NA,Cuauhtémoc
+136,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+137,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+138,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+139,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc
+140,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+141,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+142,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+143,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+144,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+145,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+146,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+147,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+148,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+149,Calle Michoacán,Hipódromo,06100,Cuauhtémoc
+150,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+151,Calle de la Constitución,Escandón,11800,Miguel Hidalgo
+152,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+153,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+154,Avenida Chapultepec,Miguel Hidalgo,11580,NA
+155,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+156,Privada de la Constitución,Escandón,11800,Miguel Hidalgo
+157,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+158,Calle Francisco Zarco,Guerrero,06300,Cuauhtémoc
+159,18 de Julio,Escandón,11800,Miguel Hidalgo
+160,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+161,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+162,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+163,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+164,Calle Río Danubio,Cuauhtémoc,06500,Cuauhtémoc
+165,Calle Colima,Roma Norte,06700,Cuauhtémoc
+166,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+167,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+168,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc
+169,Calle Atztecas,Tepito,06200,Cuauhtémoc
+170,Calle Colima,Condesa,NA,Cuauhtémoc
+171,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+172,Calle Tepeji,Roma Sur,06760,Cuauhtémoc
+173,Calle Popocatépetl,Roma Norte,NA,Cuauhtémoc
+174,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+175,Calle Frontera,Juárez,NA,Cuauhtémoc
+176,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+177,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+178,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+179,Calle Salina Cruz,Roma Sur,06760,Cuauhtémoc
+180,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc
+181,Avenida Mosqueta,Guerrero,06300,Cuauhtémoc
+182,Calle Salina Cruz,Roma Sur,06760,Cuauhtémoc
+183,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+184,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+185,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+186,Calle Durango,Roma Norte,06700,Cuauhtémoc
+187,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+188,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+189,Calle 2 de Abril,Roma,64700,NA
+190,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+191,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+192,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+193,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+194,Metrobús Linea 2,Roma Sur,06760,Cuauhtémoc
+195,Calle Frontera,Juárez,NA,Cuauhtémoc
+196,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+197,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+198,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+199,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+200,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+201,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+202,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+203,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+204,Avenida Álvaro Obregón,Roma Norte,06700,Cuauhtémoc
+205,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+206,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+207,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+208,Avenida Chapultepec,Zona Rosa,06700,NA
+209,18 de Julio,Miguel Hidalgo,11800,NA
+210,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+211,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+212,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+213,Glorieta de Insurgentes,Zona Rosa,06600,NA
+214,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+215,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+216,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+217,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+218,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+219,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc
+220,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+221,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+222,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+223,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+224,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+225,18 de Julio,Miguel Hidalgo,11800,NA
+226,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+227,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+228,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+229,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+230,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+231,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+232,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+233,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+234,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+235,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+236,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+237,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+238,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+239,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+240,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+241,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+242,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+243,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+244,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+245,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+246,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+247,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+248,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+249,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+250,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+251,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+252,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+253,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+254,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+255,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+256,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+257,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+258,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+259,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+260,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+261,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+262,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+263,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+264,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+265,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+266,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+267,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+268,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+269,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+270,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+271,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+272,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+273,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+274,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+275,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+276,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+277,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+278,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+279,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+280,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+281,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+282,Calle José Martí,Escandón,11800,Miguel Hidalgo
+283,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+284,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+285,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+286,Viaducto Presidente Miguel Alemán,Roma Sur,06760,Cuauhtémoc
+287,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+288,Calle Colima,Roma Norte,06700,Cuauhtémoc
+289,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+290,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+291,Calle Colima,Roma Norte,06700,Cuauhtémoc
+292,Calle Toluca,Centro Urbano Benito Juárez,06760,NA
+293,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+294,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+295,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+296,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+297,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+298,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+299,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+300,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+301,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+302,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+303,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+304,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+305,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+306,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+307,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+308,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+309,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+310,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+311,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+312,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+313,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+314,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+315,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+316,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+317,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+318,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+319,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+320,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+321,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+322,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+323,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+324,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+325,Calle Puerto México,Roma Sur,06760,Cuauhtémoc
+326,Calle Chilpancingo,Hipódromo,06100,Cuauhtémoc
+327,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+328,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+329,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+330,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+331,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+332,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+333,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+334,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+335,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+336,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+337,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+338,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+339,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+340,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+341,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+342,Calle Morelia,Juárez,06600,Cuauhtémoc
+343,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+344,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+345,Avenida Eugenio Garza Sada,Roma,64700,NA
+346,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+347,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+348,Calle Jalapa,Centro Urbano Benito Juárez,06700,NA
+349,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+350,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+351,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+352,Calle Chilpancingo,Hipódromo,06100,Cuauhtémoc
+353,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+354,Calle Tepeji,Roma Sur,06760,Cuauhtémoc
+355,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+356,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+357,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+358,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+359,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+360,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+361,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+362,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+363,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+364,Avenida Insurgentes Sur,Roma Sur,06760,Cuauhtémoc
+365,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+366,Calle Puerto México,Roma Sur,06760,Cuauhtémoc
+367,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+368,Calle Puebla,Roma Norte,06700,Cuauhtémoc
+369,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+370,Guerrero,Tabacalera,06300,Cuauhtémoc
+371,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+372,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+373,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+374,Ciclovía Durango,Roma Norte,06700,Cuauhtémoc
+375,Cerrada Cozumel,Condesa,06700,Cuauhtémoc
+376,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+377,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+378,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+379,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+380,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+381,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+382,Calle Puebla,Zona Rosa,06700,NA
+383,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+384,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+385,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+386,Calle Nautla,Roma Sur,06760,Cuauhtémoc
+387,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+388,Calle Torreón,Roma Sur,06760,Cuauhtémoc
+389,Calle Puerto México,Roma Sur,06760,Cuauhtémoc
+390,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+391,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+392,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+393,Avenida Luis Elizondo,México,647770,NA
+394,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+395,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+396,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+397,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+398,Calle Puebla,Zona Rosa,06700,NA
+399,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+400,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+401,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+402,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+403,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+404,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+405,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+406,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+407,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+408,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+409,Avenida Álvaro Obregón,Roma Norte,06700,Cuauhtémoc
+410,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+411,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+412,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+413,Callejón Durango,Doctores,06700,Cuauhtémoc
+414,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+415,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+416,Medellín,Roma Sur,06760,Cuauhtémoc
+417,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+418,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+419,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+420,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+421,Calle Frontera,Juárez,06600,Cuauhtémoc
+422,Calle Bajío,Centro Urbano Benito Juárez,06780,NA
+423,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+424,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+425,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+426,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+427,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+428,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+429,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+430,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+431,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+432,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+433,Calle Colima,Roma Norte,06700,Cuauhtémoc
+434,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+435,Calle Ario,Roma Sur,06760,Cuauhtémoc
+436,Calle Valladolid,Roma Norte,06700,Cuauhtémoc
+437,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+438,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+439,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+440,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+441,Calle Palestina,Roma,64700,NA
+442,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+443,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+444,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+445,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+446,Calle Jalapa,Roma Norte,06700,Cuauhtémoc
+447,Privada de la Constitución,Escandón,11800,Miguel Hidalgo
+448,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+449,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+450,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+451,Calle Monclova,Roma Sur,06760,Cuauhtémoc
+452,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+453,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+454,Calle Puebla,Zona Rosa,06700,NA
+455,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+456,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+457,Calle Colima,Roma Norte,06700,Cuauhtémoc
+458,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+459,Calle Nautla,Roma Sur,06760,Cuauhtémoc
+460,Calle Valladolid,Roma Norte,06700,Cuauhtémoc
+461,Florencia Nightingale,NA,64700,NA
+462,Calle Frontera,Juárez,06700,Cuauhtémoc
+463,Avenida Mazatlán,Condesa,06700,Cuauhtémoc
+464,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+465,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+466,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+467,Calle Jalapa,Roma Norte,06700,Cuauhtémoc
+468,Calle Colima,Roma Norte,06700,Cuauhtémoc
+469,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+470,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+471,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+472,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+473,Calle Roma,Juárez,06600,Cuauhtémoc
+474,Calle Río Bravo,México,647770,NA
+475,Medellín,Roma Sur,06760,Cuauhtémoc
+476,Calle Tuxpan,Roma Sur,06760,Cuauhtémoc
+477,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+478,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+479,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+480,Calle Rosa Bonheur,NA,64700,NA
+481,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+482,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+483,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+484,Calle Colima,Roma Norte,06700,Cuauhtémoc
+485,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+486,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+487,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+488,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+489,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+490,Calle Palestina,Roma,64700,NA
+491,Avenida Chapultepec,Zona Rosa,06700,NA
+492,Avenida Yucatán,Centro Urbano Benito Juárez,06700,NA
+493,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+494,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+495,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+496,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+497,Calle Colima,Roma Norte,06700,Cuauhtémoc
+498,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+499,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+500,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+501,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+502,Calle 2 de Abril,Roma,64700,NA
+503,Callejón Durango,Doctores,06700,Cuauhtémoc
+504,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+505,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+506,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+507,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+508,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+509,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+510,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+511,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+512,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+513,Calle Colima,Roma Norte,06700,Cuauhtémoc
+514,Calle Colima,Roma Norte,06700,Cuauhtémoc
+515,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+516,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+517,Calle Nautla,Roma Sur,06760,Cuauhtémoc
+518,Calle Linares,Roma Sur,06760,Cuauhtémoc
+519,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+520,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+521,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+522,Calle Manzanillo,Roma Sur,NA,Cuauhtémoc
+523,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+524,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+525,Transbordo intermodal metrobús Hospital General - TB S,Centro Urbano Benito Juárez,06700,NA
+526,NA,Hipódromo,06100,Cuauhtémoc
+527,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+528,Calle 2 de Abril,Roma,64700,NA
+529,Calle Puebla,Zona Rosa,06700,NA
+530,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+531,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+532,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+533,Calle Michoacán,Hipódromo,06100,Cuauhtémoc
+534,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+535,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+536,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+537,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+538,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+539,Calle 2 de Abril,Roma,64700,NA
+540,Calle Colima,Roma Norte,06700,Cuauhtémoc
+541,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+542,Calle Puebla,Zona Rosa,06700,NA
+543,Calle Puebla,Zona Rosa,06700,NA
+544,Calle Puebla,Zona Rosa,06700,NA
+545,Medellín,Roma Sur,06760,Cuauhtémoc
+546,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+547,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+548,Calle Puebla,Zona Rosa,06700,NA
+549,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+550,Calle Alejandría,Roma,64700,NA
+551,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+552,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+553,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+554,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+555,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+556,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+557,Calle Colima,Roma Norte,06700,Cuauhtémoc
+558,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+559,Calle Orizaba,Juárez,06700,Cuauhtémoc
+560,Calle Alejandría,Roma,64700,NA
+561,Avenida Yucatán,Centro Urbano Benito Juárez,06700,NA
+562,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+563,Calle Acayucan,Centro Urbano Benito Juárez,06760,NA
+564,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+565,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+566,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+567,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+568,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+569,Calle Iguala,Roma Sur,06760,Cuauhtémoc
+570,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+571,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+572,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+573,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+574,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+575,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+576,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+577,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+578,Calle Jorullo,Unión,22534,NA
+579,Calle Veracruz,Condesa,06700,Cuauhtémoc
+580,Calle Linares,Roma Sur,06760,Cuauhtémoc
+581,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+582,Calle Taxco,Roma Sur,06760,Cuauhtémoc
+583,Calle Frontera,Juárez,NA,Cuauhtémoc
+584,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+585,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+586,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+587,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+588,Calle Colima,Roma Norte,06700,Cuauhtémoc
+589,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+590,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+591,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+592,Calle Linares,Roma Sur,06760,Cuauhtémoc
+593,Calle Colima,Roma Norte,06700,Cuauhtémoc
+594,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+595,Calle Colima,Roma Norte,06700,Cuauhtémoc
+596,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+597,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+598,Calle Colima,Roma Norte,06700,Cuauhtémoc
+599,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+600,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+601,Calle Tonalá,Roma Norte,NA,Cuauhtémoc
+602,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+603,Avenida Yucatán,Centro Urbano Benito Juárez,06700,NA
+604,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+605,Avenida Insurgentes Sur,Hipódromo,06760,Cuauhtémoc
+606,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+607,Calle Pirineos,Roma,64700,NA
+608,Avenida Chapultepec,Zona Rosa,06700,NA
+609,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+610,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc
+611,Calle Jalapa,Centro Urbano Benito Juárez,06700,NA
+612,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+613,NA,Hipódromo,06100,Cuauhtémoc
+614,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+615,Calle Colima,Roma Norte,06700,Cuauhtémoc
+616,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+617,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+618,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+619,Avenida Chapultepec,Zona Rosa,06700,NA
+620,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+621,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+622,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+623,Calle Linares,Roma Sur,06760,Cuauhtémoc
+624,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+625,Calle Colima,Roma Norte,06700,Cuauhtémoc
+626,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+627,Calle Colima,Roma Norte,06700,Cuauhtémoc
+628,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+629,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+630,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+631,Calle Huatabampo,Centro Urbano Benito Juárez,06760,NA
+632,Calle Colima,Roma Norte,06700,Cuauhtémoc
+633,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+634,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+635,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+636,Calle Colima,Roma Norte,06700,Cuauhtémoc
+637,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+638,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+639,Calle Colima,Roma Norte,06700,Cuauhtémoc
+640,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+641,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+642,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+643,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+644,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+645,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+646,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+647,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+648,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+649,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+650,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+651,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+652,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+653,Calle Orizaba,Juárez,06700,Cuauhtémoc
+654,Calle Tlaxcala,Hipódromo,06100,Cuauhtémoc
+655,Calle Colima,Roma Norte,06700,Cuauhtémoc
+656,Calle Colima,Roma Norte,06700,Cuauhtémoc
+657,Calle Toluca,Centro Urbano Benito Juárez,06760,NA
+658,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+659,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+660,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+661,Medellín,Roma Sur,06760,Cuauhtémoc
+662,Calle Durango,Roma Norte,06700,Cuauhtémoc
+663,Calle Durango,Roma Norte,06700,Cuauhtémoc
+664,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+665,Calle Ures,Centro Urbano Benito Juárez,06760,NA
+666,Calle Orizaba,Roma Norte,06700,Cuauhtémoc
+667,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+668,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+669,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+670,Calle Toluca,Centro Urbano Benito Juárez,06760,NA
+671,Calle Torreón,Roma Sur,06760,Cuauhtémoc
+672,Calle Colima,Roma Norte,06700,Cuauhtémoc
+673,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+674,Calle Colima,Roma Norte,06700,Cuauhtémoc
+675,Calle Torreón,Roma Sur,06760,Cuauhtémoc
+676,Calle 2 de Abril,NA,64700,NA
+677,Calle Linares,Roma Sur,06760,Cuauhtémoc
+678,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+679,Calle Colima,Roma Norte,06700,Cuauhtémoc
+680,Calle Torreón,Roma Sur,06760,Cuauhtémoc
+681,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+682,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+683,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+684,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+685,Calle Colima,Roma Norte,06700,Cuauhtémoc
+686,Calle Colima,Roma Norte,06700,Cuauhtémoc
+687,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+688,Calle Colima,Roma Norte,06700,Cuauhtémoc
+689,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+690,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+691,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+692,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+693,Calle Linares,Roma Sur,06760,Cuauhtémoc
+694,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+695,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+696,Calle Colima,Roma Norte,06700,Cuauhtémoc
+697,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+698,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+699,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+700,Calle Colima,Roma Norte,06700,Cuauhtémoc
+701,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+702,José María Rico,Actipan,03230,NA
+703,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+704,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc
+705,Calle Hamburgo,Juárez,06600,Cuauhtémoc
+706,Calle Puebla,Zona Rosa,06700,NA
+707,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+708,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+709,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+710,Calle Puebla,Zona Rosa,06700,NA
+711,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+712,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+713,Calle Palestina,Roma,64700,NA
+714,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+715,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+716,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+717,Calle Linares,Roma Sur,06760,Cuauhtémoc
+718,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+719,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+720,Chilpancingo,Roma Sur,06760,Cuauhtémoc
+721,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+722,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+723,Calle Colima,Roma Norte,06700,Cuauhtémoc
+724,Avenida Cuauhtémoc,Doctores,06700,Cuauhtémoc
+725,Calle Colima,Roma Norte,06700,Cuauhtémoc
+726,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+727,Calle Colima,Roma Norte,06700,Cuauhtémoc
+728,Calle José Gálvez Moya,La Martinica,01619,Álvaro Obregón
+729,Calle Martín Luis Guzmán,NA,647770,NA
+730,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+731,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+732,Calle Colima,Roma Norte,06700,Cuauhtémoc
+733,Calle Colima,Roma Norte,06700,Cuauhtémoc
+734,Calle Río Tamesí,Roma,64700,NA
+735,Calle Palestina,Roma,64700,NA
+736,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+737,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+738,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+739,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+740,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+741,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+742,Calle Colima,Roma Norte,06700,Cuauhtémoc
+743,Calle Colima,Roma Norte,06700,Cuauhtémoc
+744,Calle Colima,Roma Norte,06700,Cuauhtémoc
+745,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+746,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+747,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+748,Calle Colima,Roma Norte,06700,Cuauhtémoc
+749,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+750,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+751,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+752,Calle Ixtlán,Centro Urbano Benito Juárez,06760,NA
+753,Calle Ixtlán,Centro Urbano Benito Juárez,06760,NA
+754,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+755,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+756,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+757,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+758,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+759,Calle Colima,Roma Norte,06700,Cuauhtémoc
+760,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+761,Calle Colima,Roma Norte,06700,Cuauhtémoc
+762,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+763,Calle Puebla,Zona Rosa,06700,NA
+764,Calle Colima,Roma Norte,06700,Cuauhtémoc
+765,Calle Colima,Roma Norte,06700,Cuauhtémoc
+766,Salamanca,Zona Rosa,06700,NA
+767,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+768,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+769,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+770,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+771,Calle Colima,Roma Norte,06700,Cuauhtémoc
+772,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+773,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+774,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+775,Calle Jesús de Terán,Tabacalera,06030,Cuauhtémoc
+776,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc
+777,Medellín,Roma Sur,06760,Cuauhtémoc
+778,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+779,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+780,Calle León de los Aldama,Centro Urbano Benito Juárez,06760,NA
+781,Calle Frontera,Juárez,NA,Cuauhtémoc
+782,Calle Colima,Roma Norte,06700,Cuauhtémoc
+783,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+784,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+785,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+786,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+787,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+788,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+789,Roma,NA,67188,NA
+790,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+791,Calle Doctor Rafaél Lucio,Doctores,06720,Cuauhtémoc
+792,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+793,Calle Puebla,Zona Rosa,06700,NA
+794,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+795,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+796,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+797,Calle Palestina,Roma,64700,NA
+798,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+799,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+800,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+801,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+802,Calle Huatabampo,Centro Urbano Benito Juárez,06760,NA
+803,Calle Palestina,Roma,64700,NA
+804,Calle Colima,Roma Norte,06700,Cuauhtémoc
+805,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+806,Calle Colima,Roma Norte,06700,Cuauhtémoc
+807,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+808,Amelia Earhart,NA,64700,NA
+809,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+810,Calle Diagonal,NA,64700,NA
+811,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+812,Avenida Cuauhtémoc,Centro Urbano Benito Juárez,06720,NA
+813,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+814,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+815,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+816,Avenida Álvaro Obregón,Roma Norte,06700,Cuauhtémoc
+817,Calle Colima,Roma Norte,06700,Cuauhtémoc
+818,Calle Colima,Roma Norte,06700,Cuauhtémoc
+819,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+820,Calle Colima,Roma Norte,06700,Cuauhtémoc
+821,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+822,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+823,Calle Colima,Roma Norte,06700,Cuauhtémoc
+824,Calle Colima,Roma Norte,06700,Cuauhtémoc
+825,Calle Colima,Roma Norte,06700,Cuauhtémoc
+826,Calle Colima,Roma Norte,06700,Cuauhtémoc
+827,Calle Colima,Roma Norte,06700,Cuauhtémoc
+828,Calle Colima,Roma Norte,06700,Cuauhtémoc
+829,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc
+830,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+831,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+832,Calle Colima,Roma Norte,06700,Cuauhtémoc
+833,Calle Colima,Roma Norte,06700,Cuauhtémoc
+834,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+835,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+836,Calle Colima,Roma Norte,06700,Cuauhtémoc
+837,Calle Bajío,Roma Sur,06760,Cuauhtémoc
+838,Calle Chiapas,Centro Urbano Benito Juárez,06700,NA
+839,Calle Jalapa,Roma Norte,06700,Cuauhtémoc
+840,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+841,Pomona,Roma Norte,06700,Cuauhtémoc
+842,Calle Cozumel,Condesa,06700,Cuauhtémoc
+843,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+844,Calle Tabasco,Roma Norte,06700,Cuauhtémoc
+845,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+846,Ciclovía Chapultepec,Zona Rosa,06700,NA
+847,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+848,Calle Concepción Beistegui,Nápoles,03103,Benito Juárez
+849,Avenida Cuauhtémoc,Doctores,06700,Cuauhtémoc
+850,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+851,Calle Tapachula,Centro Urbano Benito Juárez,06700,NA
+852,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+853,Calle Sinaloa,Condesa,06700,Cuauhtémoc
+854,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+855,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+856,Ciclovía Chapultepec,Zona Rosa,06700,NA
+857,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+858,Calle Orizaba,Juárez,06700,Cuauhtémoc
+859,Calle Palestina,Roma,64700,NA
+860,Ciclovía Chapultepec,Zona Rosa,06700,NA
+861,Medellín,Roma Sur,NA,Cuauhtémoc
+862,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+863,Calle Palestina,Roma,64700,NA
+864,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+865,Calle Orizaba,Roma Norte,06700,Cuauhtémoc
+866,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+867,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+868,Calle Colima,Roma Norte,06700,Cuauhtémoc
+869,Calle Colima,Roma Norte,06700,Cuauhtémoc
+870,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+871,Calle Colima,Roma Norte,06700,Cuauhtémoc
+872,Calle Colima,Roma Norte,06700,Cuauhtémoc
+873,Calle Colima,Roma Norte,06700,Cuauhtémoc
+874,Calle Colima,Roma Norte,06700,Cuauhtémoc
+875,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+876,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc
+877,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+878,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+879,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+880,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+881,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+882,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez
+883,Calle Colima,Roma Norte,06700,Cuauhtémoc
+884,Calle Colima,Roma Norte,06700,Cuauhtémoc
+885,Calle Linares,Roma Sur,06760,Cuauhtémoc
+886,Avenida Eugenio Garza Sada,Roma,64700,NA
+887,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+888,Calle Colima,Roma Norte,06700,Cuauhtémoc
+889,Calle Valladolid,Roma Norte,06700,Cuauhtémoc
+890,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+891,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+892,Calle Colima,Roma Norte,06700,Cuauhtémoc
+893,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+894,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+895,Calle Linares,Roma Sur,06760,Cuauhtémoc
+896,Medellín,Roma Sur,NA,Cuauhtémoc
+897,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+898,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+899,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+900,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+901,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+902,Pomona,Roma Norte,06700,Cuauhtémoc
+903,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+904,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+905,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+906,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+907,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc
+908,Transbordo Intermodal MB Álvaro Obregón,Roma Norte,06700,Cuauhtémoc
+909,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+910,Calle Palestina,Roma,64700,NA
+911,Calle Iguala,Roma Sur,06760,Cuauhtémoc
+912,Avenida Baja California,Roma Sur,06760,Cuauhtémoc
+913,Calle Tapachula,Centro Urbano Benito Juárez,06700,NA
+914,Calle Nayarit,Centro Urbano Benito Juárez,06760,NA
+915,Calle Río Nazas,NA,64750,NA
+916,Calle Tapachula,Centro Urbano Benito Juárez,06700,NA
+917,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc
+918,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+919,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+920,Calle Linares,Roma Sur,06760,Cuauhtémoc
+921,Privada Luis Elizondo,Privada Roma,64700,NA
+922,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+923,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+924,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+925,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+926,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+927,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+928,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+929,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+930,Calle Jalapa,Roma Norte,06700,Cuauhtémoc
+931,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+932,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc
+933,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+934,Medellín,Roma Sur,06760,Cuauhtémoc
+935,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+936,Calle Orizaba,Juárez,06700,Cuauhtémoc
+937,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+938,Calle Orizaba,Juárez,06700,Cuauhtémoc
+939,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc
+940,Calle Tonalá,Roma Norte,06700,Cuauhtémoc
+941,Calle Palestina,Roma,64700,NA
+942,Calle Palestina,Roma,64700,NA
+943,Calle Linares,Roma Sur,06760,Cuauhtémoc
+944,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+945,Calle Paricutín,Nuevo Repueblo,64700,NA
+946,Calle Paricutín,Nuevo Repueblo,64700,NA
+947,Calle Paricutín,Nuevo Repueblo,64700,NA
+948,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+949,Calle Córdoba,Centro Urbano Benito Juárez,06700,NA
+950,Calle Durango,Roma Norte,06700,Cuauhtémoc
+951,Avenida Sonora,Condesa,06700,Cuauhtémoc
+952,Calle Sinaloa,Condesa,06700,Cuauhtémoc
+953,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+954,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc
+955,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,NA
+956,Calle Valladolid,Roma Norte,06700,Cuauhtémoc
+957,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+958,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+959,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+960,Pomona,Roma Norte,06700,Cuauhtémoc
+961,Calle Colima,Roma Norte,06700,Cuauhtémoc
+962,Pomona,Roma Norte,06700,Cuauhtémoc
+963,Medellín,Roma Sur,06760,Cuauhtémoc
+964,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc
+965,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+966,Calle Colima,Roma Norte,06700,Cuauhtémoc
+967,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+968,NA,Condesa,06140,Cuauhtémoc
+969,NA,Condesa,06140,Cuauhtémoc
+970,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc
+971,Medellín,Roma Sur,06760,Cuauhtémoc
+972,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc
+973,Medellín,Roma Sur,NA,Cuauhtémoc
+974,Calle Coahuila,Centro Urbano Benito Juárez,06700,NA
+975,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc
+976,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc
+977,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc
+978,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc
+979,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc
+980,Calle Bajío,Roma Sur,06760,Cuauhtémoc
