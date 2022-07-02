@@ -1,0 +1,982 @@
+,road,neighbourhood,postcode,mayoralty,city,state,country
+0,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+1,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+2,Calle Tepeji,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+3,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+4,Calle Frontera,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+5,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+6,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+7,Calle Tapachula,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+8,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+9,Avenida Cuauhtémoc,Doctores,06720,Cuauhtémoc,Ciudad de México,NA,México
+10,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+11,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+12,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+13,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+14,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+15,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+16,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+17,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+18,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+19,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+20,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+21,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+22,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+23,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+24,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03103,Benito Juárez,Ciudad de México,NA,México
+25,Avenida Cuauhtémoc,Centro Urbano Benito Juárez,NA,Cuauhtémoc,Ciudad de México,NA,México
+26,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+27,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+28,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+29,Calle Chilpancingo,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+30,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+31,Calle Chihuahua,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+32,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+33,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+34,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+35,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+36,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+37,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+38,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+39,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+40,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+41,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+42,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+43,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+44,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+45,Río Tíber,Cuauhtémoc,06500,Cuauhtémoc,Ciudad de México,NA,México
+46,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+47,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+48,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+49,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+50,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+51,Calle Frontera,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+52,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+53,Calle Alejandría,Roma,64700,NA,Monterrey,Nuevo León,México
+54,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+55,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+56,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+57,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+58,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+59,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+60,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+61,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+62,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+63,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+64,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+65,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+66,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+67,Transbordo Intermodal MB Álvaro Obregón,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+68,Transbordo Intermodal MB Álvaro Obregón,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+69,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+70,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+71,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+72,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+73,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+74,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+75,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+76,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+77,Avenida Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+78,Avenida Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+79,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+80,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+81,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+82,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+83,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+84,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+85,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+86,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+87,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+88,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+89,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+90,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+91,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+92,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+93,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+94,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+95,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+96,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+97,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+98,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+99,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+100,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+101,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+102,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+103,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+104,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+105,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+106,Calle Andalucía,Álamos,03400,Benito Juárez,Ciudad de México,NA,México
+107,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+108,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+109,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+110,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+111,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+112,Calle Bajío,Roma Sur,06100,Cuauhtémoc,Ciudad de México,NA,México
+113,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+114,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+115,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+116,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+117,Avenida Insurgentes Sur,Hipódromo,06760,Cuauhtémoc,Ciudad de México,NA,México
+118,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+119,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+120,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+121,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+122,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+123,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+124,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+125,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+126,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+127,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+128,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+129,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+130,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+131,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+132,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+133,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+134,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+135,Calle Tonalá,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+136,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+137,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+138,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+139,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+140,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+141,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+142,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+143,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+144,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+145,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+146,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+147,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+148,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+149,Calle Michoacán,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+150,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+151,Calle de la Constitución,Escandón,11800,Miguel Hidalgo,Ciudad de México,NA,México
+152,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+153,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+154,Avenida Chapultepec,Miguel Hidalgo,11580,Miguel Hidalgo,Ciudad de México,NA,México
+155,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+156,Privada de la Constitución,Escandón,11800,Miguel Hidalgo,Ciudad de México,NA,México
+157,Calle Nayarit,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+158,Calle Francisco Zarco,Guerrero,06300,Cuauhtémoc,Ciudad de México,NA,México
+159,18 de Julio,Escandón,11800,Miguel Hidalgo,Ciudad de México,NA,México
+160,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+161,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+162,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+163,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+164,Calle Río Danubio,Cuauhtémoc,06500,Cuauhtémoc,Ciudad de México,NA,México
+165,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+166,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+167,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+168,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+169,Calle Atztecas,Tepito,06200,Cuauhtémoc,Ciudad de México,NA,México
+170,Calle Colima,Condesa,NA,Cuauhtémoc,Ciudad de México,NA,México
+171,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+172,Calle Tepeji,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+173,Calle Popocatépetl,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+174,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+175,Calle Frontera,Juárez,NA,Cuauhtémoc,Ciudad de México,NA,México
+176,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+177,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+178,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+179,Calle Salina Cruz,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+180,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+181,Avenida Mosqueta,Guerrero,06300,Cuauhtémoc,Ciudad de México,NA,México
+182,Calle Salina Cruz,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+183,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+184,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+185,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+186,Calle Durango,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+187,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+188,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+189,Calle 2 de Abril,Roma,64700,NA,Monterrey,Nuevo León,México
+190,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+191,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+192,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+193,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+194,Metrobús Linea 2,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+195,Calle Frontera,Juárez,NA,Cuauhtémoc,Ciudad de México,NA,México
+196,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+197,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+198,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+199,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+200,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+201,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+202,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+203,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+204,Avenida Álvaro Obregón,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+205,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+206,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+207,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+208,Avenida Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+209,18 de Julio,Miguel Hidalgo,11800,Miguel Hidalgo,Ciudad de México,NA,México
+210,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+211,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+212,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+213,Glorieta de Insurgentes,Zona Rosa,06600,Cuauhtémoc,Ciudad de México,NA,México
+214,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+215,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+216,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+217,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+218,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+219,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+220,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+221,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+222,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+223,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+224,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+225,18 de Julio,Miguel Hidalgo,11800,Miguel Hidalgo,Ciudad de México,NA,México
+226,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+227,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+228,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+229,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+230,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+231,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+232,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+233,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+234,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+235,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+236,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+237,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+238,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+239,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+240,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+241,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+242,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+243,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+244,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+245,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+246,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+247,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+248,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+249,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+250,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+251,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+252,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+253,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+254,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+255,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+256,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+257,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+258,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+259,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+260,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+261,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+262,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+263,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+264,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+265,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+266,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+267,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+268,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+269,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+270,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+271,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+272,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+273,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+274,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+275,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+276,Calle Nayarit,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+277,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+278,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+279,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+280,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+281,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+282,Calle José Martí,Escandón,11800,Miguel Hidalgo,Ciudad de México,NA,México
+283,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+284,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+285,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+286,Viaducto Presidente Miguel Alemán,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+287,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+288,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+289,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+290,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+291,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+292,Calle Toluca,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+293,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+294,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+295,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+296,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+297,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+298,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+299,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+300,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+301,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+302,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+303,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+304,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+305,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+306,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+307,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+308,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+309,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+310,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+311,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+312,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+313,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+314,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+315,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+316,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+317,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+318,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+319,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+320,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+321,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+322,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+323,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+324,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+325,Calle Puerto México,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+326,Calle Chilpancingo,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+327,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+328,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+329,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+330,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+331,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+332,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+333,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+334,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+335,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+336,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+337,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+338,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+339,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+340,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+341,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+342,Calle Morelia,Juárez,06600,Cuauhtémoc,Ciudad de México,NA,México
+343,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+344,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+345,Avenida Eugenio Garza Sada,Roma,64700,NA,Monterrey,Nuevo León,México
+346,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+347,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+348,Calle Jalapa,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+349,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+350,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+351,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+352,Calle Chilpancingo,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+353,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+354,Calle Tepeji,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+355,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+356,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+357,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+358,Calle Nayarit,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+359,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+360,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+361,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+362,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+363,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+364,Avenida Insurgentes Sur,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+365,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+366,Calle Puerto México,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+367,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+368,Calle Puebla,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+369,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+370,Guerrero,Tabacalera,06300,Cuauhtémoc,Ciudad de México,NA,México
+371,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+372,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+373,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+374,Ciclovía Durango,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+375,Cerrada Cozumel,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+376,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+377,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+378,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+379,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+380,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+381,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+382,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+383,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+384,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+385,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+386,Calle Nautla,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+387,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+388,Calle Torreón,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+389,Calle Puerto México,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+390,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+391,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+392,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+393,Avenida Luis Elizondo,México,647770,NA,Monterrey,Nuevo León,México
+394,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+395,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+396,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+397,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+398,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+399,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+400,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+401,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+402,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+403,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+404,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+405,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+406,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+407,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+408,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+409,Avenida Álvaro Obregón,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+410,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+411,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+412,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+413,Callejón Durango,Doctores,06700,Cuauhtémoc,Ciudad de México,NA,México
+414,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+415,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+416,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+417,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+418,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+419,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+420,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+421,Calle Frontera,Juárez,06600,Cuauhtémoc,Ciudad de México,NA,México
+422,Calle Bajío,Centro Urbano Benito Juárez,06780,Cuauhtémoc,Ciudad de México,NA,México
+423,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+424,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+425,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+426,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+427,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+428,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+429,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+430,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+431,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+432,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+433,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+434,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+435,Calle Ario,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+436,Calle Valladolid,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+437,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+438,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+439,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+440,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+441,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+442,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+443,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+444,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+445,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+446,Calle Jalapa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+447,Privada de la Constitución,Escandón,11800,Miguel Hidalgo,Ciudad de México,NA,México
+448,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+449,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+450,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+451,Calle Monclova,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+452,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+453,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+454,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+455,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+456,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+457,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+458,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+459,Calle Nautla,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+460,Calle Valladolid,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+461,Florencia Nightingale,NA,64700,NA,Monterrey,Nuevo León,México
+462,Calle Frontera,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+463,Avenida Mazatlán,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+464,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+465,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+466,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+467,Calle Jalapa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+468,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+469,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+470,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+471,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+472,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+473,Calle Roma,Juárez,06600,Cuauhtémoc,Ciudad de México,NA,México
+474,Calle Río Bravo,México,647770,NA,Monterrey,Nuevo León,México
+475,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+476,Calle Tuxpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+477,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+478,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+479,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+480,Calle Rosa Bonheur,NA,64700,NA,Monterrey,Nuevo León,México
+481,Calle Nayarit,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+482,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+483,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+484,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+485,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+486,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+487,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+488,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+489,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+490,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+491,Avenida Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+492,Avenida Yucatán,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+493,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+494,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+495,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+496,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+497,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+498,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+499,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+500,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+501,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+502,Calle 2 de Abril,Roma,64700,NA,Monterrey,Nuevo León,México
+503,Callejón Durango,Doctores,06700,Cuauhtémoc,Ciudad de México,NA,México
+504,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+505,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+506,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+507,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+508,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+509,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+510,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+511,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+512,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+513,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+514,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+515,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+516,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+517,Calle Nautla,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+518,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+519,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+520,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+521,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+522,Calle Manzanillo,Roma Sur,NA,Cuauhtémoc,Ciudad de México,NA,México
+523,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+524,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+525,Transbordo intermodal metrobús Hospital General - TB S,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+526,NA,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+527,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+528,Calle 2 de Abril,Roma,64700,NA,Monterrey,Nuevo León,México
+529,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+530,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+531,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+532,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+533,Calle Michoacán,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+534,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+535,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+536,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+537,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+538,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+539,Calle 2 de Abril,Roma,64700,NA,Monterrey,Nuevo León,México
+540,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+541,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+542,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+543,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+544,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+545,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+546,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+547,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+548,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+549,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+550,Calle Alejandría,Roma,64700,NA,Monterrey,Nuevo León,México
+551,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+552,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+553,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+554,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+555,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+556,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+557,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+558,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+559,Calle Orizaba,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+560,Calle Alejandría,Roma,64700,NA,Monterrey,Nuevo León,México
+561,Avenida Yucatán,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+562,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+563,Calle Acayucan,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+564,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+565,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+566,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+567,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+568,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+569,Calle Iguala,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+570,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+571,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+572,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+573,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+574,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+575,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+576,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+577,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+578,Calle Jorullo,Unión,22534,NA,Tijuana,Baja California,México
+579,Calle Veracruz,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+580,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+581,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+582,Calle Taxco,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+583,Calle Frontera,Juárez,NA,Cuauhtémoc,Ciudad de México,NA,México
+584,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+585,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+586,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+587,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+588,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+589,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+590,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+591,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+592,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+593,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+594,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+595,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+596,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+597,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+598,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+599,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+600,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+601,Calle Tonalá,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+602,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+603,Avenida Yucatán,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+604,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+605,Avenida Insurgentes Sur,Hipódromo,06760,Cuauhtémoc,Ciudad de México,NA,México
+606,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+607,Calle Pirineos,Roma,64700,NA,Monterrey,Nuevo León,México
+608,Avenida Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+609,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+610,Calle Sinaloa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+611,Calle Jalapa,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+612,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+613,NA,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+614,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+615,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+616,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+617,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+618,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+619,Avenida Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+620,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+621,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+622,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+623,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+624,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+625,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+626,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+627,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+628,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+629,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+630,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+631,Calle Huatabampo,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+632,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+633,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+634,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+635,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+636,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+637,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+638,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+639,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+640,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+641,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+642,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+643,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+644,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+645,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+646,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+647,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+648,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+649,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+650,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+651,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+652,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+653,Calle Orizaba,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+654,Calle Tlaxcala,Hipódromo,06100,Cuauhtémoc,Ciudad de México,NA,México
+655,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+656,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+657,Calle Toluca,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+658,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+659,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+660,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+661,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+662,Calle Durango,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+663,Calle Durango,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+664,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+665,Calle Ures,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+666,Calle Orizaba,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+667,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+668,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+669,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+670,Calle Toluca,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+671,Calle Torreón,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+672,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+673,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+674,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+675,Calle Torreón,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+676,Calle 2 de Abril,NA,64700,NA,Monterrey,Nuevo León,México
+677,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+678,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+679,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+680,Calle Torreón,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+681,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+682,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+683,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+684,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+685,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+686,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+687,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+688,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+689,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+690,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+691,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+692,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+693,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+694,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+695,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+696,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+697,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+698,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+699,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+700,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+701,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+702,José María Rico,Actipan,03230,NA,Ciudad de México,NA,México
+703,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+704,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+705,Calle Hamburgo,Juárez,06600,Cuauhtémoc,Ciudad de México,NA,México
+706,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+707,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+708,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+709,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+710,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+711,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+712,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+713,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+714,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+715,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+716,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+717,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+718,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+719,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+720,Chilpancingo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+721,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+722,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+723,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+724,Avenida Cuauhtémoc,Doctores,06700,Cuauhtémoc,Ciudad de México,NA,México
+725,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+726,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+727,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+728,Calle José Gálvez Moya,La Martinica,01619,Álvaro Obregón,Ciudad de México,NA,México
+729,Calle Martín Luis Guzmán,NA,647770,NA,Monterrey,Nuevo León,México
+730,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+731,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+732,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+733,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+734,Calle Río Tamesí,Roma,64700,NA,Monterrey,Nuevo León,México
+735,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+736,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+737,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+738,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+739,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+740,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+741,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+742,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+743,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+744,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+745,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+746,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+747,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+748,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+749,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+750,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+751,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+752,Calle Ixtlán,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+753,Calle Ixtlán,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+754,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+755,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+756,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+757,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+758,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+759,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+760,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+761,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+762,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+763,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+764,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+765,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+766,Salamanca,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+767,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+768,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+769,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+770,Calle Nayarit,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+771,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+772,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+773,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+774,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+775,Calle Jesús de Terán,Tabacalera,06030,Cuauhtémoc,Ciudad de México,NA,México
+776,Ciclovía Chapultepec,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+777,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+778,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+779,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+780,Calle León de los Aldama,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+781,Calle Frontera,Juárez,NA,Cuauhtémoc,Ciudad de México,NA,México
+782,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+783,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+784,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+785,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+786,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+787,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+788,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+789,Roma,NA,67188,NA,Guadalupe,Nuevo León,México
+790,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+791,Calle Doctor Rafaél Lucio,Doctores,06720,Cuauhtémoc,Ciudad de México,NA,México
+792,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+793,Calle Puebla,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+794,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+795,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+796,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+797,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+798,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+799,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+800,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+801,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+802,Calle Huatabampo,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+803,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+804,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+805,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+806,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+807,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+808,Amelia Earhart,NA,64700,NA,Monterrey,Nuevo León,México
+809,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+810,Calle Diagonal,NA,64700,NA,Monterrey,Nuevo León,México
+811,Calle Nayarit,Centro Urbano Benito Juárez,06760,Benito Juárez,Ciudad de México,NA,México
+812,Avenida Cuauhtémoc,Centro Urbano Benito Juárez,06720,Cuauhtémoc,Ciudad de México,NA,México
+813,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+814,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+815,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+816,Avenida Álvaro Obregón,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+817,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+818,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+819,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+820,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+821,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+822,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+823,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+824,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+825,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+826,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+827,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+828,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+829,Calle Guanajuato,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+830,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+831,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+832,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+833,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+834,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+835,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+836,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+837,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+838,Calle Chiapas,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+839,Calle Jalapa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+840,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+841,Pomona,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+842,Calle Cozumel,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+843,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+844,Calle Tabasco,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+845,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+846,Ciclovía Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+847,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+848,Calle Concepción Beistegui,Nápoles,03103,Benito Juárez,Ciudad de México,NA,México
+849,Avenida Cuauhtémoc,Doctores,06700,Cuauhtémoc,Ciudad de México,NA,México
+850,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+851,Calle Tapachula,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+852,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+853,Calle Sinaloa,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+854,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+855,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+856,Ciclovía Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+857,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+858,Calle Orizaba,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+859,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+860,Ciclovía Chapultepec,Zona Rosa,06700,Cuauhtémoc,Ciudad de México,NA,México
+861,Medellín,Roma Sur,NA,Cuauhtémoc,Ciudad de México,NA,México
+862,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+863,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+864,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+865,Calle Orizaba,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+866,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+867,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+868,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+869,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+870,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+871,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+872,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+873,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+874,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+875,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+876,Avenida Insurgentes Sur,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+877,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+878,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+879,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+880,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+881,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+882,Viaducto Presidente Miguel Alemán,Piedad Narvarte,03000,Benito Juárez,Ciudad de México,NA,México
+883,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+884,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+885,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+886,Avenida Eugenio Garza Sada,Roma,64700,NA,Monterrey,Nuevo León,México
+887,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+888,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+889,Calle Valladolid,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+890,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+891,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+892,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+893,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+894,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+895,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+896,Medellín,Roma Sur,NA,Cuauhtémoc,Ciudad de México,NA,México
+897,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+898,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+899,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+900,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+901,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+902,Pomona,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+903,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+904,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+905,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+906,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+907,Calle San Luis Potosí,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+908,Transbordo Intermodal MB Álvaro Obregón,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+909,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+910,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+911,Calle Iguala,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+912,Avenida Baja California,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+913,Calle Tapachula,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+914,Calle Nayarit,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+915,Calle Río Nazas,NA,64750,NA,Monterrey,Nuevo León,México
+916,Calle Tapachula,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+917,Avenida Paseo de la Reforma Norte,Tabacalera,06040,Cuauhtémoc,Ciudad de México,NA,México
+918,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+919,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+920,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+921,Privada Luis Elizondo,Privada Roma,64700,NA,Monterrey,Nuevo León,México
+922,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+923,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+924,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+925,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+926,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+927,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+928,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+929,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+930,Calle Jalapa,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+931,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+932,Calle Hermosillo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+933,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+934,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+935,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+936,Calle Orizaba,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+937,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+938,Calle Orizaba,Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+939,Calle Tehuantepec,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+940,Calle Tonalá,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+941,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+942,Calle Palestina,Roma,64700,NA,Monterrey,Nuevo León,México
+943,Calle Linares,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+944,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+945,Calle Paricutín,Nuevo Repueblo,64700,NA,Monterrey,Nuevo León,México
+946,Calle Paricutín,Nuevo Repueblo,64700,NA,Monterrey,Nuevo León,México
+947,Calle Paricutín,Nuevo Repueblo,64700,NA,Monterrey,Nuevo León,México
+948,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+949,Calle Córdoba,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+950,Calle Durango,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+951,Avenida Sonora,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+952,Calle Sinaloa,Condesa,06700,Cuauhtémoc,Ciudad de México,NA,México
+953,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+954,Calle Zacatecas,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+955,Calle Aguascalientes,Centro Urbano Benito Juárez,06760,Cuauhtémoc,Ciudad de México,NA,México
+956,Calle Valladolid,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+957,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+958,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+959,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+960,Pomona,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+961,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+962,Pomona,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+963,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+964,Ciclovía Monterrey,Roma Norte,NA,Cuauhtémoc,Ciudad de México,NA,México
+965,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+966,Calle Colima,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+967,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+968,NA,Condesa,06140,Cuauhtémoc,Ciudad de México,NA,México
+969,NA,Condesa,06140,Cuauhtémoc,Ciudad de México,NA,México
+970,Calle Tlacotalpan,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+971,Medellín,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+972,Calle Quintana Roo,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+973,Medellín,Roma Sur,NA,Cuauhtémoc,Ciudad de México,NA,México
+974,Calle Coahuila,Centro Urbano Benito Juárez,06700,Cuauhtémoc,Ciudad de México,NA,México
+975,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+976,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+977,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+978,Avenida Monterrey,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
+979,Avenida Querétaro,Roma Norte,06700,Cuauhtémoc,Ciudad de México,NA,México
+980,Calle Bajío,Roma Sur,06760,Cuauhtémoc,Ciudad de México,NA,México
